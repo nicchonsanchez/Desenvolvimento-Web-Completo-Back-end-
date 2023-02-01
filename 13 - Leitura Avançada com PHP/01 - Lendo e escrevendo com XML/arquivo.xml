@@ -1,0 +1,23 @@
+<rss>
+    <informacoes1>
+        <item>
+            <nome>
+                Nicchon Sanchez
+            </nome>
+            <idade>
+                21
+            </idade>
+        </item>
+    </informacoes1>
+    <informacoes2>
+        <item>
+            <nome>
+                Hugo T. Sanchez
+            </nome>
+            <idade>
+                27
+            </idade>
+        </item>
+    </informacoes2>
+
+</rss>
